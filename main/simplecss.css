@@ -40,7 +40,7 @@
   background: #f3e9ff;
   border-color: #50287c;
 }*/
-upload-box {text-decoration:underline;color:#0000FF;}
+.upload-box {text-decoration:underline;color:#0000FF;}
 #fileInput { display: none; }
 
 #progressContainer {
